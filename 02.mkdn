@@ -37,7 +37,7 @@ sense. Real submarines are big and round, because the drag coefficient of a coni
 tip is actually worse than a hemisphere.
 
 In contrast, rockets have nose cones, because the only thing that really matters when you
-reach supersonic velocities is that your vehicle lies inside the mach cone.
+reach supersonic velocities is that your vehicle lies inside the Mach cone.
 
 This vessel looks like a hypersonic aerial vehicle. It looks like one of those concept art
 pieces of SSTO ships. Huge cylindrical engines on either side of a sleek tubular body shaped
@@ -56,7 +56,7 @@ from just looking at them.
 
 «Fire in the hole!»
 
-Sloane covers eir ears, and I follow suit. Just then, with a thundrous
+Sloane covers eir ears, and I follow suit. Just then, with a thunderous
 \*thoom\* a missile launches from the sub, and I follow it with my eyes as it
 screams into the distance, towards... I see the shiny figure in the sky, descending
 like a too-slow falling star. The missile hits with a blinding flash, and the too-slow
@@ -89,7 +89,7 @@ There's another \*thoom\* that reverberates through the hull, and then we tilt s
 forwards.
 
 The hallway we're in suggests luxury cruise ship, rather than submarine, with
-marble floors, high marble ceilings, and finely paneled ladquered wood walls.
+marble floors, high marble ceilings, and finely paneled lacquered wood walls.
 The light fixtures lining the walls and floor are similar to LED spots --- a
 soft, warm glow. There's also rope loops on the walls, like you'd find in a bus
 or a subway car. I smartly grab one.
@@ -131,7 +131,7 @@ He looks at me and says something. He's quite handsome, but nowhere near Sloane.
 "What's up?" I ask.
 
 ::: { .right }
-"Wanyoike is just talking shit, it's what he does."
+"Wanayoike is just talking shit, it's what he does."
 :::
 
 I nod. "Sloane, is there a quick briefing you can give me on social norms here? I don't
@@ -140,15 +140,17 @@ want to commit a faux pas."
 ::: { .right }
 God damn, e is business like.
 I wave Wanayoike off, and he dutifully wanders away to annoy someone else.
-"Rule zero: don't do anything deliberately nonconsensual to anyone,
+"Rule zero: don't do anything deliberately non-consensual to anyone,
 or the Rock spikes you." I point at the floor. "And you die. And before you ask, gaming the system
-bears the same punishment."
+is not a good idea either."
 :::
 
 I look down at the seemingly innocuous marble tiles. "Okay, mind-reader anti-rape murder-rocks.
 That's gonna take a while to sink in. Anything else?"
 
 ::: { .right }
+I feel eir unsettlement, but not a sliver of it crosses eir face or voice.
+
 "You're from a lost world. That means gender-divide, sex-negativity, and absence of succubi.
 Succubi feed on lust --- yes that violates conservation of energy. Public sex and nudity is the norm;
 wearing clothes ---" I gesture to em "--- is for special occasions."
@@ -177,7 +179,7 @@ in short order, and I am treated to the sight of something stranger still. My mi
 The reason why the ceilings are stone tile, is because of course, you can walk on them. Along the main hallway,
 I spied several niches with curving stone tile connecting floor and ceiling, and foolishly believed them ornamental.
 
-The bridge is a circular room. Seats with five-point buckles are dotted around the perimiter of the
+The bridge is a circular room. Seats with five-point buckles are dotted around the perimeter of the
 room on both floor and ceiling. The center is occupied by a sphere of shiny material --- either silicon or
 metal --- whereupon millions of glowing glyphs flow. Some of the seats are occupied, by humanoids. Various
 glowing panels of semi-opaque _something_ hover around the occupied seats.
@@ -191,11 +193,11 @@ of graphs and video feeds.
 
 Immediately next to her sits a blue skinned, three eyed, pointy-eared man who
 I judge to be about seven feet tall. His suite of holograms holds several
-hovering control rods in strange configurations; I'm gussing pilot.
+hovering control rods in strange configurations; I'm guessing pilot.
 
 Down on my level, sits a person with a relatively human-looking face and upper body,
 but instead of a lower body and arms, has prehensile tentacles that move unlike anything
-I have ever seen. Next to them sits what appears to be an embodied depiction of an egyptiean deity,
+I have ever seen. Next to them sits what appears to be an embodied depiction of an Egyptian deity,
 with the head of a crow and a simple skirt covering her hips. They are quietly discussing something
 over a what appears to be a looping video clip, and a schematic drawing of something.
 
@@ -219,7 +221,7 @@ turning her head to a side like real birds.
 
 «Very well.»
 
-She gestures for me to proceed, and I courtsey. "Captain, I would like to thank you and your
+She gestures for me to proceed, and I curtsey. "Captain, I would like to thank you and your
 crew for your efforts." Even before I have finished speaking, Sloane begins translating.
 "I am ignorant, but I must assume this mission presented a significant risk to the ship and
 its crew. I am very grateful."
@@ -244,7 +246,7 @@ one thing she knows will push my buttons.
 no trouble."
 :::
 
-"Either she is efflusively polite, or you are leaving something out," I say. "I still don't
+"Either she is effusively polite, or you are leaving something out," I say. "I still don't
 see why _I_ was important enough to risk something like this."
 
 ::: { .right }
@@ -264,7 +266,7 @@ God, why.
 :::
 
 I don't know why it strikes me as funny that several people risked their lives and what I
-assmue to be an expensive vehicle, just so an enby I have never met could come abduct me.
+assume to be an expensive vehicle, just so an enby I have never met could come abduct me.
 Still, how can I say no to someone like that.
 
 «Sloane, go show Morgan the observation deck and explain
@@ -284,7 +286,7 @@ she stops by a door. There's a hand-print on it --- as is there on all the doors
 and a quick tap on it from eir other hand causes it to liquefy and flow away. Inside I see a
 spacious living space, which is turned ninety degrees on its side. It holds tasteful furniture: a
 sofa arrangement, a sleek-looking desk, a large bathing tub, and an even larger bed. The entry
-is marked by a sloping ramp bridning the difference in orientation. The floor perpendicular to the
+is marked by a sloping ramp bridging the difference in orientation. The floor perpendicular to the
 direction of travel.
 
 She slides our bags inside.
@@ -311,7 +313,7 @@ Almost any body I can imagine, I can have with but a moment's thought."
 :::
 
 I turn that over in my head a few times. Apart from the obvious utility, it must make em
-popular in a society where sex holds such a centeral role. On the other hand, the trepidation
+popular in a society where sex holds such a central role. On the other hand, the trepidation
 of eir admitting it suggests something else.
 
 "You don't sound happy about it?" I ask. "I'm new to all of this, but I imagine it makes
@@ -322,7 +324,7 @@ I smile, and wince inwardly. "I can't complain." I really can't.
 :::
 
 It's an obvious deflection. "You _won't_ complain, because you think it's not up to you.
-I am --- or rahter, I was --- _very_ smart and academically accomplished. I still had complaints
+I am --- or rather, I was --- _very_ smart and academically accomplished. I still had complaints
 about my work ethic, and people didn't get it, so I kept it to myself."
 
 ::: { .right }
@@ -341,7 +343,7 @@ like that on the outside of the craft, but they do display what I assume is the 
 
 Words fail me. I'm a prose writer, and in this moment I wish I was a poet.
 
-_Astral sea_ springs to mind. It's space, if space was concieved by an pacific island tribe. Great
+_Astral sea_ springs to mind. It's space, if space was conceived by an pacific island tribe. Great
 big flows of water, curl like fractals of waves into impossible distances. It's a thousand thousand oceans,
 and there is no horizon to limit the view --- there's not even atmosphere to render the great distances
 unintelligible by blue haze. In between the strands and curtains of ocean spanning what I can only
