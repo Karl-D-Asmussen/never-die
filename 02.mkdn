@@ -57,7 +57,7 @@ from just looking at them.
 «Fire in the hole!»
 
 Sloane covers eir ears, and I follow suit. Just then, with a thunderous
-\*thoom\* a missile launches from the sub, and I follow it with my eyes as it
+***thoom*** a missile launches from the sub, and I follow it with my eyes as it
 screams into the distance, towards... I see the shiny figure in the sky, descending
 like a too-slow falling star. The missile hits with a blinding flash, and the too-slow
 falling star keeps on falling.
@@ -85,7 +85,7 @@ metal staircase inside. I hear the hatch slide closed above us, and a klaxon goe
 
 ::: 
 
-There's another \*thoom\* that reverberates through the hull, and then we tilt sharply
+There's another ***thoom*** that reverberates through the hull, and then we tilt sharply
 forwards.
 
 The hallway we're in suggests luxury cruise ship, rather than submarine, with
