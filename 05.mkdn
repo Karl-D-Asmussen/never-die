@@ -82,7 +82,7 @@ There's a small meeting going on above, around one end of the long table. I
 spy the red version of Radaffo, a grey-skinned man with goat horns and glowing
 eyes, a human-looking dark-skinned bearded man who has triceps bigger than my glutes,
 a collection of tentacles which I recognize as the gunnery chief Baahl --- only now looking
-more masculine, a lithe and tanned man, and a human woman with no discernable skin colour and
+more masculine, a lithe and tanned man, and a human woman with no discernible skin colour and
 very attention-grabbing curves.
 
 None of them are wearing much in the way of clothes, although the two human men are carrying tool belts much
@@ -115,10 +115,10 @@ Wanayoinke, like most, isn't wearing anything but a
 skirt. He has... _Well defined_ muscles. From a pocket, he takes a sheaf
 of papers, and a pen. From under the armrest on his recliner, he unfolds a side-table.
 
-Then he pens thirty-six symbols, pronouncing the phonons while he writes.
+Then he pens thirty-six symbols, pronouncing the phonemes while he writes.
 
 A surprisingly pleasant zero-knowledge language lesson concludes with me having
-learnt the alphabet, the basic greeting and expressal of gratitude, affirmative
+learnt the alphabet, the basic greeting and expressing of gratitude, affirmative
 and negative answer, a couple of pronouns, the nouns: person, chair, Rocks,
 the Sea, and 'object;' the verbs: sit, stand, speak, make love, 'do', and
 'relate;' and the ordinals from zero to twelve.
@@ -127,7 +127,7 @@ They use seximal base, because _of course._
 
 I also know the names of everyone in the room.
 
-A new face walks in: a woman --- desi if I had to place her race --- with tan
+A new face walks in: a woman --- degi if I had to place her race --- with tan
 skin and long black hair in a queue. She's wearing a white _sari._ 
 
 She greets Wanayoinke, and after a brief exchange, turns to me.
@@ -161,13 +161,14 @@ and civilians. Many new deadly weapons were developed and used to terrifying eff
 
 "Oh, grisly stuff."
 
-I nod grimly. "India became independent in the aftermath of the war in 1947, and Ghandi was assasinated a year later.
+I nod grimly. "India became independent in the aftermath of the war in 1947, and Ghandi was assassinated a year later.
 Today, Pakistan and India are separate nations with an uneasy peace between them."
 
 "Ghandi was--- oh Vena, that's terrible. He was such a good man."
 
+I neglect to mention his racism.
 "After the Second World War, the Soviet Union and the United States of America entered a 'cold'
-war predicated on the posession of bombs that could destroy entire cities. They never actually
+war predicated on the possession of bombs that could destroy entire cities. They never actually
 fought, but they sponsored a handful of proxy wars in Korea, Vietnam, Afganistan... The Soviet Union
 dissolved in 1989, ending that. More millions dead, horrible atrocities committed."
 
@@ -184,19 +185,23 @@ driven from their homes."
 
 I nod. "Technology gets a lot better. You know small pox?" --- she nods --- "Nobody's gotten sick
 of that in decades. We have a global network of communications that lets subsistence farmers in
-Etheopia sell their cows, and people in China have phone calls with people in South America, almost
+Ethiopia sell their cows, and people in China have phone calls with people in South America, almost
 for free. It's a _lot_ better, it's a lot lopsided."
 
 She nods. "And have fashions changed?" She gestures to my getup.
 
-I shrug. "Yes and no. It's not like there isn't misgivins about women or gays, but it's beginning
+I shrug. "Yes and no. It's not like there isn't misgivings about women or gays, but it's beginning
 to thaw, maybe just a little."
 
 She giggles. "There's _Sade_ in you. _Dres._"
 
-Then another person enters, a tall, white-skinned man clad in elaborate jewelery and regalia on wrists,
-brow, and hips. He looks like he stepped out of a mural of hindu iconography. On his hip sits a little
-brown skinned girl with black hair, dressed in a miniature sari, who can be no more than two years old.
+Then another person enters, a tall, white-skinned man clad in elaborate
+jewelery and regalia on wrists, brow, and hips. He looks like he stepped out of
+a mural of Hindu iconography. On his hip sits a little brown skinned child with
+black hair, wearing a colorful diaper with strange henna patterns drawn on their
+skin, who can be no more than two years old.
+
+"Ah, here's my husband and daughter."
 
 ----
 
@@ -276,11 +281,18 @@ the emotional tumult slowly recide.
 
 «What's wrong?» Wanayoinke asks.
 
-«Morgan once had a family like you, Jaya,» I say. «Eir wife was killed and eir child injured in
-a vehicle collision. The child died in a healer's bed, while Morgan held his hand. For five
-years, E drank to forget. If it wasn't for me...»
+I take a deep breath.
+«Morgan once had a family like you, Jaya,» I say, slowly. «Eir wife was killed and eir child injured in
+a vehicle collision. The child died in a healer's bed, while Morgan held his hand.»
 
-Jaya looks at her husband in mute horror, then back to us.
+Jaya covers her mouth.
+
+I stroke Morgan's forehead. E isn't responding --- under the surface I sense
+the loop of trauma.
+«It broke em. For five years, e drank to forget. If it wasn't for me...»
+
+Jaya looks at her husband in mute horror, then back to us. He strokes a hand over
+his daughter's head, no doubt imagining that very same scenario happening to him.
 
 I shake my head. «It's just a dissociative episode brought on by post traumatic stress. E'll be
 fine in a bit.»
@@ -346,14 +358,14 @@ Sloane hugs me tighter.
 :::
 
 I nuzzle against eir arm. "Thanks, but no thanks," I mutter. "I think I just need
-to feel my feelings for a little." Recontextualizing traumatic memories is the sum total
+to feel my feelings for a little." Re-contextualizing traumatic memories is the sum total
 of the treatment for PTSD, and I'm starting five years late. Nothing could be more pleasant,
 or make me feel safer than Sloane, and so reminiscing --- even as raw as I am --- is beneficial.
 
 I think about all the painful parts. The time afterwards when I isolated myself from friends
 and family. The funeral proceedings. The questions about organ donation. The issues of
 last will and testament. I think about all the happy parts, tainted by sadness. Quintin's first
-steps. Whe Angie and I made love for a whole month, wishing to concieve.
+steps. When Angie and I made love for a whole month, wishing to conceive.
 I think a lot about that moment when I got the call from the my mother in law, in tears.
 
 ::: { .right }
@@ -372,7 +384,7 @@ of em.
 "Penny for your thoughts?"
 :::
 
-"Do you even have pennies here?" I ask. "Rhethorical, don't answer that. What's a _dres_?"
+"Do you even have pennies here?" I ask. "Rhetorical, don't answer that. What's a _dres_?"
 
 ::: { .right }
 "Sade archetype. Mad scientist."
@@ -380,7 +392,7 @@ of em.
 
 That fits the bill. I turn my head to the side and up, and lead Sloane into a kiss.
 
-Already I am getting hard, my erection poking up agains the chiffon of my skirt. Sloane runs a
+Already I am getting hard, my erection poking up against the chiffon of my skirt. Sloane runs a
 hand over it. E uncrosses eir legs and lies down, and I turn around to see em splayed
 out on the bed.
 
@@ -416,7 +428,7 @@ legs. E pulls the cropped top off by grabbing on the back and pulling it overhea
 overhead as well. I smell a note of impatience.
 
 I sit up and eir hands find my cheeks and pull me in for a kiss. My hands find eir
-chest, where e is developing what looks like impressive pectorials, but perhaps is
+chest, where e is developing what looks like impressive pectorals, but perhaps is
 the neatest little pair of subtle breasts. In any case, it's an erogenous zone. The pleasure
 e gets from this is palpable.
 
@@ -453,7 +465,7 @@ My hands are led aside to rest on the mattress, and e starts languidly thrusting
 me. A hand on my back pulls me down, and e takes one of my nipples in eir mouth and begins
 sucking.
 
-Mentally, I smack myself for forgetting that cheif source of nectar. All it takes is
+Mentally, I smack myself for forgetting that chief source of nectar. All it takes is
 a twist of will, and my breasts fill with nectar for Morgan to imbibe. I don't need to
 see to experience the pleasant surprise of it.
 
@@ -463,7 +475,7 @@ see to experience the pleasant surprise of it.
 Like cream and mushroom sauce, peppermint tea, cherry cola, beef stock, and
 chilli salsa. It is _filling_ in a way that eir saliva and come is not. My mind
 goes to Greek myth --- ichor is the blood of gods, nectar is the drink. If so,
-then surely this is abrosia, the food of gods.
+then surely this is _ambrosia_, the food of gods.
 
 I draw my mouth away, pull em close and whisper:
 "_Like love; abrosia. Like safety and warmth and everything good in the world. Your come
