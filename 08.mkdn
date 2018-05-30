@@ -201,10 +201,19 @@ words in descending order, and accompanying page numbers.
 When the wandering star passes, casting the sky-line outsied in twilight, we have
 made inroads on the land of Infernal. I've meticulously made several decks of flash-cards,
 an invention foreign to Sloane, for memorizing the somewhat extraneously complex writing system,
-for seximal arithmetic, for vocabulary, for short sentences with transitive and intransitive
+for seximal arithmetic, for vocabulary, for inflection, for short sentences with transitive and intransitive
 verbs.
 
-Infernal uses ergative-absolutive morphosyntactic alignment except it is nominative-accusative
+Infernal is a synthetic language, agglutinatively and _extensively_ inflected.
+The morpheme inventory seems never-ending, and the word order is emphatic,
+rather than syntatic. This is a hurdle to overcome seeing as my brain runs on
+English and Swedish, with trace amounts of French and German --- a particularly
+masochistic part of me wishes I had taken Latin.
+
+It has a case system with ergative-accusative morphosyntatic alignment, meaning that
+unlike every single language I know,
+
+ergative-absolutive morphosyntactic alignment except it is nominative-accusative
 the first person, or if the object is the speaker --- with
 exceptions, of course. It has singular, dual, plural, and _paucal_ --- 'a few' --- grammatical number.
 It has no grammatical gender, and indeed the pronouns are neutral. The animative hierarchy at the
