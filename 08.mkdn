@@ -204,27 +204,31 @@ an invention foreign to Sloane, for memorizing the somewhat extraneously complex
 for seximal arithmetic, for vocabulary, for inflection, for short sentences with transitive and intransitive
 verbs.
 
-Infernal is a synthetic language, agglutinatively and _extensively_ inflected.
-The morpheme inventory seems never-ending, and the word order is emphatic,
-rather than syntatic. This is a hurdle to overcome seeing as my brain runs on
+Infernal has so many inflections. The morpheme inventory seems never-ending,
+and the word order is emphatic, rather than syntatic. This is a hurdle to overcome seeing as my brain runs on
 English and Swedish, with trace amounts of French and German --- a particularly
 masochistic part of me wishes I had taken Latin.
 
-It has a case system with ergative-accusative morphosyntatic alignment, meaning that
-unlike every single language I know,
+There's a noun case for just specifying the cause of things. There's a noun case for specifying
+how you know what you're saying. There's a noun case for specifying physical positions, and one for movement.
+I thank the ghost of Noam Chomsky that the declension system is entirely regular --- either a word ends in
+a vowel or a consonant, either it's real or abstract. It has no gendered pronouns, but rather splits into
+sapient, merely sentient, and non-sentient, it has the reflexive posessive I always missed in English.
 
-ergative-absolutive morphosyntactic alignment except it is nominative-accusative
-the first person, or if the object is the speaker --- with
-exceptions, of course. It has singular, dual, plural, and _paucal_ --- 'a few' --- grammatical number.
-It has no grammatical gender, and indeed the pronouns are neutral. The animative hierarchy at the
-base of its noun classes put humans, succubi, _stars_, and _whales_ on top.
+The animative hierarchy at the base of its noun classes put humans, succubi, _stars_, and _whales_ on top.
+The grammatical numbers are nullary, singular, dual, _pauchal_ --- 'a few,' plural, and nouns without
+inflected grammatical numbers are uncountable by default. It's also possible to classify objects with particles
+in a completely separate mess of language features.
 
-It's a never-ending well of alien language features and perplexing cognates.
+It's a never-ending well of alien grammar and perplexing cognates.
 
 Sloane has been skimming some of the religious texts and theology,
-then reading the _Kama Sutra_, while I have been busting my ass memorizing things.
+then reading the _Kama Sutra_, while I have been busting my ass memorizing things. When I say e has been
+reading it, I mean _reading_.
 
-"What's up?" I ask, rubbing my eyes.
+"What's up?" I ask, rubbing my eyes, and look up. Sloane has all ten volumes
+open, and a number of eye-bearing tendrils extending from eir back are apparently reading all
+ten at once. Other tendrils periodically turn pages --- every handful of seconds or so.
 
 ::: { .right }
 I shrug.
