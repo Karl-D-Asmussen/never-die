@@ -437,7 +437,7 @@ chest.
 "Yes. I'd like that."
 :::
 
-«Clemency.» _Claighmens._
+«Clemency.» _Claighmensh._
 
 ::: { .right }
 I let it roll over my tongue. «Clemency.» "Why that?"
@@ -461,5 +461,5 @@ I nod. "It's a serviceable moniker."
 ::: { .right }
 I laugh, and we kiss.
 
-Sloane and Morgan Claighmens.
+Sloane and Morgan Claighmensh.
 :::
