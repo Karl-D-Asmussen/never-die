@@ -3,7 +3,7 @@ of the coast-lines look like a lazy concept artist took advantage of blue-tint a
 a smudge of blue on the horizon --- this bay isn't nearly that wide.
 
 ::: { .right }
-"This is limbo. It's---" what's the word. "It's a memetic mirror of the
+"This is Limbo. It's---" what's the word. "It's a memetic mirror of the
 material realm."
 :::
 
@@ -40,10 +40,10 @@ In contrast, rockets have nose cones, because the only thing that really matters
 reach supersonic velocities is that your vehicle lies inside the Mach cone.
 
 This vessel looks like a hypersonic aerial vehicle. It looks like one of those concept art
-pieces of SSTO ships. Huge cylindrical engines on either side of a sleek tubular body shaped
-like an elongated bullet.
+pieces of SSTO ships. Huge engines embedded in delta-wings on either side of a sleek body shaped
+like an elongated bullet. Matte black with white streaks.
 
-An entire section of the hull opens, and a person --- human, by the looks of
+An entire section of the hull opens up top, and a person --- human, by the looks of
 it --- peeks out. Male, black like midnight, with elaborately done hair and
 absolutely minimal clothing.
 
@@ -52,7 +52,7 @@ absolutely minimal clothing.
 Sloane tenses, at whatever he just said, and looks towards the shore; I follow
 eir eyes, and I see _something_ amassing on the shore. Great big white blobs
 of indefiniteness and tendrils. Like part of my visual cortex is getting corrupted
-from just looking at them.
+from just looking at them; like living JPEG artifacts. There's hundreds of them.
 
 «Fire in the hole!»
 
@@ -65,7 +65,6 @@ falling star keeps on falling.
 And that is all the time I get to gawk.
 
 ::: { .right }
-
 I don't waste any time, because there is none to waste. I grab Morgan by the hips
 and toss em at the side of the _Gehenna_, where a ladder manifests from the side of the
 ship. E has good reflexes, thank god, and the good sense to climb the ladder two
@@ -73,28 +72,26 @@ rungs at a time.
 
 Growing another set of harms, I hastily grab both our bags and the slim mooring
 line of the folding canoe, and leap onto the ladder myself.
-
 :::
 
-The black man waves us to the open hatch, and I dart inside, barreling down the
+The man waves us to the open hatch, and I dart inside, barreling down the
 metal staircase inside. I hear the hatch slide closed above us, and a klaxon goes off.
 
 ::: { .right }
-
 "That's the diving alarm; hold on tight."
-
 ::: 
 
 There's another ***thoom*** that reverberates through the hull, and then we tilt sharply
 forwards.
 
 The hallway we're in suggests luxury cruise ship, rather than submarine, with
-marble floors, high marble ceilings, and finely paneled lacquered wood walls.
-The light fixtures lining the walls and floor are similar to LED spots --- a
-soft, warm glow. There's also rope loops on the walls, like you'd find in a bus
-or a subway car. I smartly grab one.
+red marble floors, red marble ceilings high above, and finely paneled lacquered wood walls.
+The light fixtures lining the walls by the floor and ceiling are small open flames
+that cast a warm glow --- on the ceiling the flame tongues lick _downwards_.
 
-Beside me is the black man and Sloane, who I now notice has _four arms_. If I wasn't in a
+There's also rope loops on the walls, like you'd find in a bus or a subway car. I smartly grab one.
+
+Beside me is the man and Sloane, who I now notice has _four arms_. If I wasn't in a
 literal combat situation, I'd find that hot --- actually scratch that, it's hot as hell, even
 if we are about to die.
 
@@ -103,10 +100,11 @@ There's a tremor in the ship, then, distinct from the sound of missiles firing.
 "What's that?" I ask.
 
 ::: { .right }
-"Seraph attack," I reply. "Their profane fire cannot penetrate even a dozen cubits of water."
+"Seraph attack," I reply. "We were kind of expecting it; as long as we're under a few fathoms
+of water, we should be in the clear --- if it was coming for us we'd never have made it."
 :::
 
-Then there's another tremor, but this one is more metaphorical.
+Then there's another tremor, but this one is more metaphorical --- like the transition into Limbo.
 
 "And that?" I ask.
 
@@ -140,24 +138,30 @@ want to commit a faux pas."
 ::: { .right }
 God damn, e is business like.
 I wave Wanayoike off, and he dutifully wanders away to annoy someone else.
-"Rule zero: don't do anything deliberately non-consensual to anyone,
-or the Rock spikes you." I point at the floor. "And you die. And before you ask, gaming the system
-is not a good idea either."
+"Don't do anything deliberately non-consensual to anyone; you'll get a fair warning beforehand, don't worry."
 :::
 
-I look down at the seemingly innocuous marble tiles. "Okay, mind-reader anti-rape murder-rocks.
-That's gonna take a while to sink in. Anything else?"
+"What do you mean 'fair warning beforehand,' will someone tell me?"
+
+::: { .right }
+I shake my head. "No, you'll incur the attention of the _Wrath_, and very likely either
+a nearby Flame, the Rock you're standing on, or the Air, will let you know. It is _theoretically_
+possible for the Wrath to actually hurt people, but it never happens in practice."
+:::
+
+I look down at the seemingly innocuous marble. "Okay, intentionality-reading anti-rape systems built
+into the floor. I've heard stranger things, but not many. Anything else?"
 
 ::: { .right }
 I feel eir unsettlement, but not a sliver of it crosses eir face or voice.
 
 "You're from a lost world. That means gender-divide, sex-negativity, and absence of succubi.
-Succubi feed on lust --- yes that violates conservation of energy. Public sex and nudity is the norm;
+Succubi feed on lust. Public sex and nudity is the norm, and wandering eyes are welcome;
 wearing clothes ---" I gesture to em "--- is for special occasions."
 :::
 
 I nod. I take off my jacket, leaving me in skirt and a form fitting T-shirt. There's too many ideas
-I need to give time to gel and recombine. What theory of consent? How does the economy look? What
+I need to give time to gel and recombine. What theory of consent does the Wrath use? How does the economy look? What
 is the justice system like? "Guess I am not wearing those sandals. Which way to the bridge?"
 
 Sloane looks at me, eyebrow raised.
@@ -176,7 +180,7 @@ Sloane leads me down the spine of the ship towards the rear. The corridor we ent
 the main corridor, which suggests that the ship isn't very large, and the crew neither. We reach the bridge
 in short order, and I am treated to the sight of something stranger still. My mind races to catch up.
 
-The reason why the ceilings are stone tile, is because of course, you can walk on them. Along the main hallway,
+The reason why the ceilings are marble, is because of course, you can walk on them. Along the main hallway,
 I spied several niches with curving stone tile connecting floor and ceiling, and foolishly believed them ornamental.
 
 The bridge is a circular room. Seats with five-point buckles are dotted around the perimeter of the
@@ -271,7 +275,7 @@ Still, how can I say no to someone like that.
 
 «Sloane, go show Morgan the observation deck and explain
 yourself to em; that's an order. I will be disappointed if the two of
-you haven't bumped uglies within a watch, Rocks allow.»
+you haven't bumped uglies within a watch, Wrath allowng.»
 
 Mutely, Sloane takes my hand.
 
@@ -295,7 +299,7 @@ She slides our bags inside.
 
 ::: { .right }
 "Yeah, we don't have an extra cabin, so," I begin, then it hits me what I just did.
-"Wait --- spike! --- sorry, I was just assuming--- If you don't want to lodge with me, I can---"
+"Wait --- burst and blazes! --- sorry, I was just assuming--- If you don't want to lodge with me, I can---"
 :::
 
 I put a hand on eir arm. "It's fine." It's more than fine.
