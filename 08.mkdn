@@ -24,7 +24,7 @@ sideways. It smells like old wood and musty paper.
 My memory has been faring distinctly better since my first taste of nectar,
 so I begin my _list._
 
-::: { .right }
+::: { .slo }
 «Here's what we need --- bear with us.»
 :::
 
@@ -46,7 +46,7 @@ Sloane confers all this, and the attendant scribbles down things in a notebook.
 "I need an introductory text in sorcery. I need a book about succubi. I need a
 manual on dreamwalking --- are there other disciplines like those?"
 
-::: { .right }
+::: { .slo }
 It takes me a moment to switch mental gears. "Uh, like esoteric practices that
 aren't in general possible in material plane physics? Stonesinging, Gardening,
 Aetherwork, Smithing, and Dreaming."
@@ -66,7 +66,7 @@ to the True Sea. I need a really good work of realistic fiction, and one of
 speculative fiction if such a thing exists. I need a poetry collection. I need
 --- does the _Kama Sutra_ exist here?"
 
-::: { .right }
+::: { .slo }
 «... And the _Kama Sutra._»
 :::
 
@@ -74,7 +74,7 @@ speculative fiction if such a thing exists. I need a poetry collection. I need
 
 The clerk rushes in between the shelves, leaving us here.
 
-::: { .right }
+::: { .slo }
 "How are you going to read all that?"
 :::
 
@@ -82,7 +82,7 @@ The clerk rushes in between the shelves, leaving us here.
 survive; which I do. First, I need you to be my teacher. Ever taught someone
 Infernal in a week?"
 
-::: { .right }
+::: { .slo }
 "I don't think that's possible..."
 :::
 
@@ -91,19 +91,19 @@ wanted to be a polyglot, but I never had the time to learn more than two.
 Regrettably, it seems Infernal is the lingua franca of --- how many people live
 in the True Sea?"
 
-::: { .right }
+::: { .slo }
 "About a trillion."
 :::
 
 I blink a few times. "_Fuck_ me."
 
-::: { .right }
+::: { .slo }
 "Well, we have a few minutes before he returns, so..."
 :::
 
 "You know what I meant."
 
-::: { .right }
+::: { .slo }
 I blow a raspberry.
 :::
 
@@ -128,7 +128,7 @@ away in eirs.
 
 I wave at the clerk as we leave.
 
-::: { .right }
+::: { .slo }
 "That set me _way_ back," I say as we step out of the _Books & Books & Books_. "I'm
 technically indebted now."
 
@@ -137,7 +137,7 @@ I look back up at the rickety wooden facade. I'm not even sure how we found it.
 
 "What?" I ask.
  
-::: { .right }
+::: { .slo }
 "Nothing, just... This place seems _off,_ somehow."
 :::
 
@@ -165,33 +165,33 @@ The other room is a bathhouse, complete with sauna and a small pool.
 
 Both rooms have large panoramic windows, and _no curtains._
 
-::: { .right }
+::: { .slo }
 "So are you serious about wanting to read?"
 :::
 
 "Yes. Sorry. I love you and all, but it's only been what --- two hours since
 you screwed my brains out?"
 
-::: { .right }
+::: { .slo }
 "Fair enough."
 :::
 
 I pull out the English-Infernal and Infernal-English dictionaries, and the beginner's textbook.
 "Now: _Inferni._"
 
-::: { .right }
+::: { .slo }
 "All right."
 :::
 
 "_Inferni,_" I say, waving the book for emphasis. 
 
-::: { .right }
+::: { .slo }
 «Fine. Infernal.»
 :::
 
 «Yes,» I say.
 
-::: { .right }
+::: { .slo }
 I point to myself. «Sloane, Succubus.»
 :::
 
@@ -203,7 +203,7 @@ words and basic grammar."
 The dictionary has a section that lists the one thousand, two-hundred ninety-six most used
 words in descending order, and accompanying page numbers.
 
-::: { .right }
+::: { .slo }
 "If we are doing this," I say, stepping closer, "we are doing it naked and in bed."
 :::
 
@@ -246,20 +246,20 @@ then reading the _Kama Sutra_, while I have been busting my ass memorizing thing
 
 "What's up?" I ask, rubbing my eyes, and look up.
 
-::: { .right }
+::: { .slo }
 I shrug.
 :::
 
 I note the unusual reaction --- e usually has something to say. "Is something the
 matter?"
 
-::: { .right }
+::: { .slo }
 "I found some incongruity."
 :::
 
 "Between?"
 
-::: { .right }
+::: { .slo }
 I put the book in my lap aside, and run my hands over my
 knees. "Captain Raven basically... Raised me. She took me in when I was whisked
 away from you for my own safety --- it's a pretty common thing --- and taught
@@ -268,7 +268,7 @@ me basically everything I know."
 
 "And?" I ask.
 
-::: { .right }
+::: { .slo }
 I pick up the theological analysis. "Like, the most accepted interpretation of Lilith's doctrines
 are completely apolitical --- or rather, only political insofar as social creatures naturally
 play status games. Raven used to rant about the obstructionist policies of Lilim, but there's
@@ -278,7 +278,7 @@ petty tribal politics at _best_."
 
 "So she's unorthodox," I say. "There's room for interpretation."
 
-::: { .right }
+::: { .slo }
 "Well, yeah... It's just--- I'm just thinking about what else she might have taught me
 that was her 'interpretation' of things."
 :::
@@ -287,7 +287,7 @@ I purse my lips. I am familiar with the feeling; or at least I empathise. "You k
 where I am from, one of the steps towards maturity is realising the fallibility of
 your role models."
 
-::: { .right }
+::: { .slo }
 "Yeah, I'm familiar with the concept."
 :::
 
@@ -297,7 +297,7 @@ I'm easily twice as old as you. I had something similar happen to me --- my pare
 broke up; that was actually after I incubated you. I lost a lot of faith in them
 both because of it."
 
-::: { .right }
+::: { .slo }
 "You expected them to be monogamous?" I ask, somewhat incredulously.
 :::
 
@@ -309,14 +309,14 @@ Raven is kid of your parent, then you should consider that you have been under h
 for thirteen years, and maybe it's time you leave the nest. You're familiar with the concept,
 but now you're living it."
 
-::: { .right }
+::: { .slo }
 I frown. "She's... It just doesn't feel right. She might get angry."
 :::
 
 That sets off a red flag. "Why would she be angry that her valued crew member
 is making emself more of an asset?"
 
-::: { .right }
+::: { .slo }
 "It's just a vibe I get, OK? Empath thing."
 :::
 
@@ -328,14 +328,14 @@ over irrational things --- that is a classic trauma reaction indicative of abuse
 with you to the ends of the True Sea if that is what you want. And if Raven did anything
 to you, she will have to answer to _me._"
 
-::: { .right }
+::: { .slo }
 I snicker. "She could rip you in half, you know?"
 :::
 
 I shake my head. "Not without my consent. And besides, I think if it came down to it
 I have every confidence that you would stop her."
 
-::: { .right }
+::: { .slo }
 I turn and wrap em up in a hug. "Thank you."
 
 We pull apart, and Morgan caresses my cheek. I lean in for a kiss, and our lips
@@ -344,7 +344,7 @@ meet. I wonder why I ever doubted that e would be perfect for me.
 
 «I need a break,» I say. Literally: «need» «break-time» «I» «(by personal-evaluation)»
 
-::: { .right }
+::: { .slo }
 I repeat the phrase, correcting some pronunciation, and Morgan repeats it back to me.
 «Let's make love,» I say.
 :::
@@ -353,7 +353,7 @@ I analyse the sentence: «?» «(future tense lovemaking)» «dual-we»
 
 «Yes please.»
 
-::: { .right }
+::: { .slo }
 I push em back, down on the futon, and creep up between eir legs. E lies back, and I run a hand
 over eir bulging shorts. At some point in reading the _Kama_ I shifted away my own cock because
 it got in the way of the book in my lap.
@@ -376,7 +376,7 @@ Our lips part, as I move em.
 
 "I love how we just skip foreplay."
 
-::: { .right }
+::: { .slo }
 There's cheekiness and humor in eir statement. A playfulness radiating off em, mixed with
 lust. My hand finds eir cheek, and I poke a thumb between eir lips, silencing em. Eagerly
 e starts suckling on my thumb, with no small amount of pleasure.
@@ -432,7 +432,7 @@ sloshing inside. Were I a human, I'd look pregnant.
 
 "That--- that can't all have been me."
 
-::: { .right }
+::: { .slo }
 I shake my head. "Nothing goes to waste," I say with a sly grin. I lean forward, belly sloshing, arms extending
 for support against the mattress, and we kiss, deeply and passionately.
 

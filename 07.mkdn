@@ -35,13 +35,13 @@ the living obsidian statue, which I know to be a political liaison of some sort,
 I see the strange gelatinous woman with an emerald skeleton, Transportations Officer Kairiel,
 depart with the grey-skinned, fiery-eyed Chief Warlock Ithquil.
 
-::: { .right }
+::: { .slo }
 "We should get going as well," I say.
 :::
 
 "Okay," I say. "Where to?"
 
-::: { .right }
+::: { .slo }
 "The Captain wants me at a meeting at Valhalla, but we have some time yet---"
 :::
 
@@ -50,7 +50,7 @@ depart with the grey-skinned, fiery-eyed Chief Warlock Ithquil.
 We both turn and see Jaya approach. She is carrying her daughter, Leela, and behind
 her comes Ramaeshwara, the soon-to-be ex-Quartermaster of the ship.
 
-::: { .right }
+::: { .slo }
 "Hi Jaya," I say. «Hi Ramaeshwara.» 
 :::
 
@@ -59,7 +59,7 @@ Ramaesh has some duties to see to. His position is only to expire when you take 
 
 "Sure," I say. "The more the merrier." I look at Sloane.
 
-::: { .right }
+::: { .slo }
 "I have some duties to attend to in a half watch," I say. "Perhaps you wouldn't
 mind spending some time with Morgan while I am occupied. Should only take a watch or so."
 :::
@@ -94,7 +94,7 @@ they slow down to a downright pleasant speed when approaching the floor.
 
 "It's the gift of Air," Jaya says. "Falling is always safe here."
 
-::: { .right }
+::: { .slo }
 "Only applies to people, partially applies to
 in-air collisions too. Only works on the broken isles; planet-side, falls can
 in rare cases be fully deadly."
@@ -122,7 +122,7 @@ from sleek winged forms plummeting down, to flowing dresses acting like parachut
 If I were to take notice of every strange and beautiful person we see, I would never
 get anything done.
 
-::: { .right }
+::: { .slo }
 "It's only scary the first time," I say, and let myself fall, pulling em with me.
 :::
 
@@ -133,7 +133,7 @@ wind is somehow not chilling. Even here, even at this speed, the air temperature
 I am certainly glad I wore high-waisted denim shorts and a button-down shirt --- my chiffon skirt
 would probably have ripped off me.
 
-::: { .right }
+::: { .slo }
 I angle myself and coast in front of Morgan, and reach out to grab eir other hand. Then I pull our
 faces together and we share a free-fall kiss.
 :::
@@ -166,7 +166,7 @@ Sloane, despite all eir impressive attributes, is far from the most eye-catching
 thing. In fact Leela is drawing more looks than em. I scan the crowds and see nary
 a single child, push chair, or pram.
 
-::: { .right }
+::: { .slo }
 "I'm thinking we find a hotel room with a view," I say. "Then once we're settled,
 we can go for R&R. I know a place."
 :::
@@ -177,7 +177,7 @@ I look about. From up in the air, and from the two hundred million residents,
 it looked like Themiscyra was something like ten to twenty times the size of the
 largest metropolitan area on Earth. "Is it far?" I ask.
 
-::: { .right }
+::: { .slo }
 "Somewhat." I turn to Jaya. "It's called «Golden Flower Vales,» lies in «Tantric Vertex.»
 You dreamwalk, I'll arrange transport for Morgan."
 :::
@@ -219,14 +219,14 @@ a pair of amber eyes opens, and a reddish tentacle rises in front of my face, un
 a mask. It gently lowers itself over my mouth and nose, and protrusions of it wrap around my
 head.
 
-::: { .right }
+::: { .slo }
 "_How do you like it?_"
 :::
 
 I can barely hear myself speak over the roar of the engines and wind. "It's incredible --- _you're_
 incredible."
 
-::: { .right }
+::: { .slo }
 "_I know, right?_"
 :::
 
@@ -252,7 +252,7 @@ The console with the eyes deform, bulging out, forming Sloane's face --- no
 horns, no hair, only the brow, the eyes, nose, mouth and chin. It slides out,
 revealing the protrusion to be the tip of a broad tentacle.
 
-::: { .right }
+::: { .slo }
 "_You're incredible too, you know._"
 :::
 
@@ -295,7 +295,7 @@ in my mouth retracts, kissing me once more, before becoming just a mask once mor
 like nutmeg. My cock gets one last lick, and Sloane's face retreats into the console. The prostate
 vibration abates and the cock vanishes from whence it came.
 
-::: { .right }
+::: { .slo }
 "_We're here._"
 :::
 
@@ -308,7 +308,7 @@ I look around, still groggy, and see the surrounding building scape has changed 
 Behind us lie the mile-high mooring towers; here the buildings look residential and streets look less
 insanely crowded.
 
-::: { .right }
+::: { .slo }
 "_Don't freak out._"
 :::
 
@@ -333,7 +333,7 @@ I spin around, and pull Sloane into a tongue kiss by one horn.
 
 "God _damn_ I love this place --- scratch that; I _like_ this place. I love _you!_" I say.
 
-::: { .right }
+::: { .slo }
 "I love you too," I say, and meet em for a kiss once more. Our lips part, and I hold eir gaze,
 enjoying the feel of our bodies together, and the raw affection flowing off em.
 
@@ -375,14 +375,14 @@ big enough to hold my paltry collection of possessions.
 We head out, and Sloane takes us to a nearby shopping district. "I get the notion that
 hotel isn't exactly cheap," I say.
 
-::: { .right }
+::: { .slo }
 "Yeah, it's one of the more up-scale places."
 :::
 
 "Compared to..." I stop myself. "You know what, I don't know enough about
 post-scarcity economics to compare. Are you rich?"
 
-::: { .right }
+::: { .slo }
 I shrug. "I guess my position on the crew affords me a fairly good salary;
 it's not like I have anything to spend it on when we're out to Sea."
 :::
@@ -403,13 +403,13 @@ fit for a pauper.
 
 "I've missed food," I say. 
 
-::: { .right }
+::: { .slo }
 "It's time for me to go," I say. "I'll be back in half an hour."
 :::
 
 "Shall we meet up at the hotel?" I ask.
 
-::: { .right }
+::: { .slo }
 I shake my head. "I'll find you." From my coin purse, I pull a stack of coins --- gilded dozens
 --- and place them in Morgan's hand. "New wardrobe, on me."
 ::: 
@@ -417,7 +417,7 @@ I shake my head. "I'll find you." From my coin purse, I pull a stack of coins --
 I weight the coins in my hand. It's the first time I have ever actually
 held coins. "Sure you wouldn't rather I walk around in the nude?" I say with a wink.
 
-::: { .right }
+::: { .slo }
 "I like your fashion sense; all those cute outfits." I pull em in for a long kiss.
 :::
 
@@ -454,13 +454,13 @@ When Sloane finally comes back, I feel the relief almost before e drops out of t
 directly behind me an puts eir hands over my eyes. I don't even bother guessing; I just
 spin and kiss em right away.
 
-::: { .right }
+::: { .slo }
 "Did you have a good time?"
 :::
 
 "We did. You?"
 
-::: { .right }
+::: { .slo }
 I frown. "Tedious. What now?"
 :::
 
@@ -474,7 +474,7 @@ before we part ways."
 
 "So do I," she says. Then she closes her eyes and disappears again.
 
-::: { .right }
+::: { .slo }
 I look back at Morgan again. "Sure you don't just want to go back to the hotel? Or
 maybe find a nice quiet spot?" I say. I put my hand on eir sweet firm butt.
 :::
@@ -484,7 +484,7 @@ I nod. "Library. Or book store, if you have the mood to buy me a couple of books
 The more time I spend here, the more the cultural schism between myself and this
 brave new world is revealed to be a yawning abyss.
 
-::: { .right }
+::: { .slo }
 "Mood and means," I say, jiggling my purse. A week-long hotel stay every year couldn't
 eat into my savings even if I stayed at literally the single finest place in Themiscyra.
 

@@ -2,14 +2,14 @@ The water is bare, slate-grey and still as the grave. On either side, the non-sp
 of the coast-lines look like a lazy concept artist took advantage of blue-tint and just dabbed
 a smudge of blue on the horizon --- this bay isn't nearly that wide.
 
-::: { .right }
+::: { .slo }
 "This is Limbo. It's---" what's the word. "It's a memetic mirror of the
 material realm."
 :::
 
 I look about. "So, Jung was right?"
 
-::: { .right }
+::: { .slo }
 "Who?"
 :::
 
@@ -18,7 +18,7 @@ is preposterously ill-founded... Or at least, I was a lot more sure of that befo
 ultimately with some further work to remove the non-realism bullshit, the idea nicely dovetails with
 cultural memetics," I explain.
 
-::: { .right }
+::: { .slo }
 "Something like that. It's a little more complicated."
 :::
 
@@ -27,7 +27,7 @@ in the depths.
 
 Sloane scouts the skies.
 
-::: { .right }
+::: { .slo }
 "We should be in the clear. That's our ride."
 :::
 
@@ -65,7 +65,7 @@ falling star keeps on falling.
 
 And that is all the time I get to gawk.
 
-::: { .right }
+::: { .slo }
 I don't waste any time, because there is none to waste. I grab Morgan by the hips
 and toss em at the side of the _Gehenna_, where a ladder manifests from the side of the
 ship. E has good reflexes, thank god, and the good sense to climb the ladder two
@@ -78,7 +78,7 @@ line of the folding canoe, and leap onto the ladder myself.
 The man waves us to the open hatch, and I dart inside, barreling down the
 metal staircase inside. I hear the hatch slide closed above us, and a klaxon goes off.
 
-::: { .right }
+::: { .slo }
 "That's the diving alarm; hold on tight."
 ::: 
 
@@ -100,7 +100,7 @@ There's a tremor in the ship, then, distinct from the sound of missiles firing.
 
 "What's that?" I ask.
 
-::: { .right }
+::: { .slo }
 "Seraph attack," I reply. "We were kind of expecting it; as long as we're under a few fathoms
 of water, we should be in the clear --- if it was coming for us we'd never have made it."
 :::
@@ -109,7 +109,7 @@ Then there's another tremor, but this one is more metaphorical --- like the tran
 
 "And that?" I ask.
 
-::: { .right }
+::: { .slo }
 I sag against the wall, relief washing through me. "That was the all-clear.
 We're in the Sea now."
 :::
@@ -123,20 +123,20 @@ the folding canoe. E seems happy, and the man is obviously thrilled.
 
 He looks at me and says something. He's quite handsome, but nowhere near Sloane.
 
-::: { .right }
+::: { .slo }
 «No, e doesn't speak Infernal, seriously do you know anything about lost worlds?»
 :::
 
 "What's up?" I ask.
 
-::: { .right }
+::: { .slo }
 "Wanayoike is just talking shit, it's what he does."
 :::
 
 I nod. "Sloane, is there a quick briefing you can give me on social norms here? I don't
 want to commit a faux pas."
 
-::: { .right }
+::: { .slo }
 God damn, e is business like.
 I wave Wanayoike off, and he dutifully wanders away to annoy someone else.
 "Don't do anything deliberately non-consensual to anyone; you'll get a fair warning beforehand, don't worry."
@@ -144,7 +144,7 @@ I wave Wanayoike off, and he dutifully wanders away to annoy someone else.
 
 "What do you mean 'fair warning beforehand,' will someone tell me?"
 
-::: { .right }
+::: { .slo }
 I shake my head. "No, you'll incur the attention of the _Wrath_, and very likely either
 a nearby Flame, the Rock you're standing on, or the Air, will let you know. It is _theoretically_
 possible for the Wrath to actually hurt people, but it never happens in practice."
@@ -153,7 +153,7 @@ possible for the Wrath to actually hurt people, but it never happens in practice
 I look down at the seemingly innocuous marble. "Okay, intentionality-reading anti-rape systems built
 into the floor. I've heard stranger things, but not many. Anything else?"
 
-::: { .right }
+::: { .slo }
 I feel eir unsettlement, but not a sliver of it crosses eir face or voice.
 
 "You're from a lost world. That means gender-divide, sex-negativity, and absence of succubi.
@@ -171,7 +171,7 @@ Sloane looks at me, eyebrow raised.
 risk what I am certain is a very expensive piece of equipment, as well as the lives
 of the crew, in order to get me here," I explain.
 
-::: { .right }
+::: { .slo }
 "Right, of course. I'll translate."
 :::
 
@@ -206,7 +206,7 @@ I have ever seen. Next to them sits what appears to be an embodied depiction of 
 with the head of a crow and a simple skirt covering her hips. They are quietly discussing something
 over a what appears to be a looping video clip, and a schematic drawing of something.
 
-::: { .right }
+::: { .slo }
 I lean down to Morgan and point them out. "Raven, captain. Next to her is Baahl, gunnery chief.
 Up there is Abteen, our navigator and Radaffo, our pilot."
 :::
@@ -216,7 +216,7 @@ I take a deep breath, and walk up to the captain. I hear Sloane following behind
 The two interrupt their conversation, Baahl dismisses the panels with a wave of a tendril, and
 Raven unbuckles herself and stands to greet us.
 
-::: { .right }
+::: { .slo }
 «This is Morgan, e would like to converse, and I have offered to translate since e does not
 know Infernal.»
 :::
@@ -233,7 +233,7 @@ its crew. I am very grateful."
 
 Raven looks at me, then at Sloane, and says something. «A submissive, then?»
 
-::: { .right }
+::: { .slo }
 «Don't be crass.»
 :::
 
@@ -243,7 +243,7 @@ the least I could do. I hope you come to make each other very happy.»
 
 Sloane hesitates, and I look back at em.
 
-::: { .right }
+::: { .slo }
 Oh my god, why does she have to do that spiking mentat thing where she says and does exactly the
 one thing she knows will push my buttons.
 
@@ -254,7 +254,7 @@ no trouble."
 "Either she is effusively polite, or you are leaving something out," I say. "I still don't
 see why _I_ was important enough to risk something like this."
 
-::: { .right }
+::: { .slo }
 Spike me now, e's a mentat too.
 
 "I, uh, we went to get you on... On my request. The captain did it as a favor."
@@ -266,7 +266,7 @@ The captain says something. «What, did e not know why we picked em up?»
 
 Sloane blushes. E blushes _luminescent blue._ A giggle escape me, and e only blushes harder.
 
-::: { .right }
+::: { .slo }
 God, why.
 :::
 
@@ -280,7 +280,7 @@ you haven't bumped uglies within a watch, Wrath allowng.»
 
 Mutely, Sloane takes my hand.
 
-::: { .right }
+::: { .slo }
 "The captain wants me to show you something."
 :::
 
@@ -298,7 +298,7 @@ She slides our bags inside.
 
 "Your room?" I ask.
 
-::: { .right }
+::: { .slo }
 "Yeah, we don't have an extra cabin, so," I begin, then it hits me what I just did.
 "Wait --- burst and blazes! --- sorry, I was just assuming--- If you don't want to lodge with me, I can---"
 :::
@@ -312,7 +312,7 @@ E turns to me, and holds out eir lower-right elbow to me, and I put my hand ther
 So gloriously _solid_, is eir arm. "What's with the extra arms all of a sudden?" I ask,
 while we walk.
 
-::: { .right }
+::: { .slo }
 I let out a sigh. "I'm a third-tier shapeshifter. It's a rare and coveted ability.
 Almost any body I can imagine, I can have with but a moment's thought."
 :::
@@ -324,7 +324,7 @@ of eir admitting it suggests something else.
 "You don't sound happy about it?" I ask. "I'm new to all of this, but I imagine it makes
 you popular; maybe even coveted among your... Peers."
 
-::: { .right }
+::: { .slo }
 I smile, and wince inwardly. "I can't complain." I really can't.
 :::
 
@@ -332,7 +332,7 @@ It's an obvious deflection. "You _won't_ complain, because you think it's not up
 I am --- or rather, I was --- _very_ smart and academically accomplished. I still had complaints
 about my work ethic, and people didn't get it, so I kept it to myself."
 
-::: { .right }
+::: { .slo }
 Oh. Oh please, let this be the _one_ person on this ship who gets it, and doesn't just
 humor me. "You do?"
 :::
@@ -355,7 +355,7 @@ unintelligible by blue haze. In between the strands and curtains of ocean spanni
 assume is interplanetary distances, hang planets, moons, gas giants, swirling clouds in pastel hues,
 and miniature stars in every colour of the main sequence.
 
-::: { .right }
+::: { .slo }
 Morgan's pure wonder at the vista of the True Sea brings calm to my mind, and I enjoy the view
 as well. It never gets old.
 :::
@@ -369,7 +369,7 @@ It really is a hypersonic aircraft.
 
 Behind me, I hear a scraping sound, and I turn to see Sloane pull up two chairs.
 
-::: { .right }
+::: { .slo }
 "We should talk."
 :::
 
@@ -380,7 +380,7 @@ Sloane is right there, and there is something between us. I went on the
 adventure of a lifetime at eir request, and honestly e had me at 'hello.' Am
 I ready for this? And what is 'this?' We need to talk about that first.
 
-::: { .right }
+::: { .slo }
 "So, confession, yeah, I was the one that wanted to pick you up." I take a seat,
 and Morgan takes the other. Without really noticing, both my tail and my two lower
 arms wrap themselves around me.
@@ -391,13 +391,13 @@ role in my creation. Birth."
 
 "I'm... Your parent?" I ask.
 
-::: { .right }
+::: { .slo }
 "More like, I was molded after a template based on your preferences."
 :::
 
 I nod. That has horrific implications. "Are all succubi like that?" E nods.
 
-::: { .right }
+::: { .slo }
 "Now, don't get me wrong, I like it a lot. I'm smart, I'm physically powerful,
 I'm an empath, I'm gifted at sorcery. But I've also always felt like there was a
 piece missing, and the more time I spend with you, the more I realise that whatever
@@ -411,7 +411,7 @@ in romance --- I'd like to get to know you better all the same.
 
 I nod. "The feeling is mutual."
 
-::: { .right }
+::: { .slo }
 "But?"
 :::
 
@@ -419,7 +419,7 @@ I sigh. "I'm... Look, I met the woman that became the love of my life twelve yea
 and I had a child. I'm assuming you don't know what it's like, but I can with confidence
 say I will never love anyone like I did my son --- love is such a stupid overloaded word."
 
-::: { .right }
+::: { .slo }
 I nod in agreement. "_Starateghe_ is the word for parental love in Infernal."
 :::
 
@@ -434,14 +434,14 @@ but I am not sure I can. I'll go on this adventure with you, since you'll have m
 --- probably --- something will spark between us, but right now I can't just jump into anything
 with you. Or anyone."
 
-::: { .right }
+::: { .slo }
 Patience, self, patience.
 :::
 
 We sit for a while, in silence. The ship turns and follows the ocean as the surface above curves
 up to meet us. "Can I ask, what was in that bottle?"
 
-::: { .right }
+::: { .slo }
 "Nectar. The principal secretion of succubi."
 :::
 
