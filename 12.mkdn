@@ -470,7 +470,18 @@ _Yes, my horizon._
 ----
 
 ::: { .slo }
-I fracture my consciousness into a trillion.
+I fracture my consciousness into a thousand to plan.
+
+I fracture my consciousness into a million to specify.
+
+I fracture my consciousness into a billion to implement.
+:::
+
+----
+
+::: { .slo }
+The problem is that the systems of the body weren't created in one pass,
+and so legacy details clutter the designs space.
 :::
 
 ----
@@ -495,35 +506,37 @@ The problem is that shards of carbon is toxic to osteoblasts.
 ----
 
 ::: { .slo }
-The problem is...
-:::
-
-----
-
-::: { .slo }
 The sun wanders off, and returns.
 
 Segments, modules, latching-together strands, intricate parts of metal.
-
-All that remains is the fatty lobes of the brain.
-
-The problem is...
 :::
 
 ----
 
-_I change a little. It's almost not enough to notice, but years of vigilance
-against stroke, against creeping madness, against change. Years of pursuing altered states,
-years of depression, decades of introspection._
-
-_A crispness of thought creeps in. A new intensity to my emotions. A sense of direction.
-A sense of scale. A calmness._
+::: { .slo }
+The problem is that neurons are inefficient.
+:::
 
 ----
 
 ::: { .slo }
-_Memories rush in._
+The problem is that the brain relies on neurotransmitters to emote.
+:::
 
+----
+
+::: { .slo }
+The problem is that there is only a single error-recovery system in the mind.
+:::
+
+----
+
+_A crispness of thought creeps in. A new intensity to my emotions. A sense of direction.
+A sense of scale. A calmness on demand._
+
+----
+
+::: { .slo }
 _I see her in an elevator. Angela._
 
 _Gorgeous woman, although I don't know it at the time. A timid girl just shedding the
@@ -596,7 +609,10 @@ My arms feel empty without a child that isn't even mine in them,
 a mere vestige of Morgan's grief and longing.
 
 I've no arms to hug myself with. The swarm of matter inside my lotus coalesces on
-its own. It's done. I have no regrets.
+its own. It's done. I have no regrets. Only ten billion hours of memories; a nigh
+eternity of loneliness.
 
-I wait in solitude, for what seems like far too long.
+_I miss you._
 :::
+
+_I miss you too._
