@@ -11,7 +11,7 @@ the cobbles paving the streets are so smooth that footwear is 90% fashion.
 «Fifsy pernif.» I say. They don't use percent here.
 
 The number system is seximal. One, two, three, four, five, six;
-six, twelve, thirsy (18₁₀), forsy (24₁₀), fifsy (30₁₀), nif (36₁₀). One nif, two nif, and so on. Six nif is 216.
+six, twelve, thirsy (18~10~), forsy (24~10~), fifsy (30~10~), nif (36~10~). One nif, two nif, and so on. Six nif is 216.
 
 A pernif is the chance of rolling snake eyes on two dice; one in thirty-six.
 
@@ -20,7 +20,7 @@ Cubits, hands, and fingers, not feet and inches or metres. I'm four cubits two f
 Graves, not pounds or kilograms. Two pounds; or roughly a kilogram to a grave.
 I'm two nif dozen-one graves. Or at least I was last time I had access to a scale.
 
-An absu is three-nif dozen cubits. A ges is seven nif (252₁₀) heartbeats, a watch is fifsy-two (32₁₀) ges;
+An absu is three-nif dozen cubits. A ges is seven nif (252~10~) heartbeats, a watch is fifsy-two (32~10~) ges;
 which comes out to just over eight thousand seconds, which is two hours, fourteen minutes, and twenty-four seconds.
 Those a nautical units, though. Regular people use moments which are six nif heartbeats, and bells which
 are two nif moments; which comes out to four hours, nineteen minutes, and twelve seconds.
