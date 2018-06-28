@@ -166,7 +166,8 @@ down her temple.
 
 «Oh, of course. The next departure is in five ges.»
 
-They have blimps, of course. «How fast are your blimps?»
+They have airships, of course. Not blimps or zeppelins, but literal keel-and-deck ships that just
+inexplicably float; like a blimp's gondola without the balloon. «How fast are your ships?»
 
 «Cruise at thirsy leagues per watch,» she replies.
 
@@ -187,16 +188,95 @@ bandolier. Shortly after I loose sight of her, I hear a loud slap and a drawn ou
 
 Because of course.
 
-I head for the roof, taking the steps two at a time.
+Heading for the roof, I take the steps two at a time, and reach the door in short order, opening it
+to a windswept surface of concrete with a mooring tower in the middle.
 
-----
-
-I set Sloane down in my lap as I sit cross-legged on the bare rooftop, and begin rummaging throug eir
+I sit cross-legged on the bare rooftop, set Sloane down in my lap, and begin rummaging throug eir
 duffel bag. Surely there's something in there --- the Gehenna has got several one-ups on the _Enterprise,_
 if they don't have a transporter --- which I know for a fact is possible, since teleportation agencies
 exist --- I'm buying myself a hat and eating it.
 
-What I find is a notebook in Sloane's handwriting. I page through it and find a
+When I concentrate on retrieving an ‹emergency beakon,› I get a little elderwood stick. An inscription
+along the length of it reads:
+
+> _Sloane emergency return beacon &nbsp; break here →|← break here._
+
+I scramble for some paper in eir bag, and scribble a quick message:
+
+> _Sloane remade my body and something went
+> wrong, sending em ahead for medical(?) attention._
+>
+> _Stuck out here with slower transportation._
+>
+> — _Morgan_
+
+Folding the message into a tiny piece, I grab a roll of tape from eir bag as well --- e has most
+of six toolboxes in there by my reckoning --- and tape it to eir chest. Then I put eir little hands
+around the ends of the stick and snap it in half.
+
+There's a heartbeat when I think it might have gone wrong, and then in between one video
+frame and the next, my arms are empty.
+
+::: { .slo }
+_Wait._
+:::
+
+I hug myself and a sob escapes me. It's awful to be away from em. It's awful not to know if
+e will be okay. It's awful because it has happened before. An image of Quintin's battered face,
+intubated in a hospital bed, flashes before my minds eye.
+
+Panic rises, but I force it down.
+
+I spot the incoming ship in the distance. The wait is handily enough time for me
+to get myself under control. All I can do is hope I've done the right thing.
+
+----
+
+The ship arrives, briefly hooks the mooring tower with a clawed robot arm and
+I board it by a rope ladder. It is the size of a galley ship, and make for
+a strange amalgamate of wooden decks and hull and high tech components like
+what appears to be turboprop engines that somehow run silently. The passengers
+populate the weather deck for sight seeing and enjoying the sun, and the first lower deck
+with seating.
+
+I cast a glance towards the ever-so-sligtly blue-tinted gigantic array of mile-high mooring
+towers two hundred leagues in the distance, and impatience and trepidation claws at my
+chest.
+
+Going below deck, I find a nice seat in a distant corner and try to read, only to find
+I can't muster the attention for it. Instead I go thought Sloane's bag in search of
+a communication device.
+
+What I find instead is a notebook in Sloane's handwriting. I page through it and find a
 note of ‹Gehenna's hailing pattern: [purple]{ .purple} [blue]{ .blue} [red]{
 .red} [yellow]{ .yellow} [blue]{ .blue} [green]{ .green} [red]{ .red}.› 
+
+This leads me to pick up the _Sorcery Handbook and Introduction with Primer
+on Porting Ink, 14th Edition_ I've been carrying around since two days ago,
+without even being able to read the title. I look up 'hailing' without reading
+the introductory chapters, and then when I comprehend absolutely nothing, I grudgingly
+go back and read the introduction.
+
+The gist of it is this: Sorcery is the art of tricking the universe into
+thinking something ought to happen. The number of footnotes necessary to
+explain that sentence in detail is greater than the number of words in it.
+
+Apparently, I need to read up on _Dreaming_ first, to really understand the
+true nature of sorcery, but the theory is not tantamount to the development
+of practical applucations.
+
+The "tricking" part is really the only important part, and it is done via
+symbolism --- both collective and individual, established and improvised.
+
+I pause when understanding finally manifests. It is a world that works
+the way you think it ought to work. That's _exceedingly_ convenient.
+
+Hailing is done, not by some identification scheme and magical radio, but
+by giving the hailer a clear enough picture of the vessel hailed. The color
+codes are not unique, but merely serve to help specify.
+
+The simplest, bluntest method is to use a pentagram, draw up the color code and
+identifying characteristics, and write the intended message, both in porting
+ink. Almost all ships will have receivers set up to receive such messages.
+
 
