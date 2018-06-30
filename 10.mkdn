@@ -8,22 +8,23 @@ sitting in one of Themiscyra's many, many parks.
 The grass is so soft that if the whole city was nothing but, you'd never need shoes. Indeed
 the cobbles paving the streets are so smooth that footwear is 90% fashion.
 
-«Fifsy pernif.» I say. They don't use percent here.
+«[Fifsy]{title='5×6 = 30'} [pernif]{title='1/36'}.» I say. They don't use percent here.
 
-The number system is seximal. One, two, three, four, five, six;
-six, twelve, thirsy (18~10~), forsy (24~10~), fifsy (30~10~), nif (36~10~). One nif, two nif, and so on. Six nif is 216.
+The number system is seximal. ‹One›, ‹two›, ‹three›, ‹four›, ‹five›, ‹six›,
+‹twelve›, ‹[thirsy]{title='18'}›, ‹[forsy]{title='24'}›, ‹[fifsy]{title='30'}›, ‹[nif]{title='36'}›,
+‹[two nif]{title='72'}›, and so on, up to ‹[six nif]{title='216'}›.
 
-A pernif is the chance of rolling snake eyes on two dice; one in thirty-six.
+A ‹[pernif]{title='1/36'}› is the chance of rolling snake eyes on two dice; one in thirty-six.
 
-Cubits, hands, and fingers, not feet and inches or metres. I'm four cubits two fingers tall.
+Cubits, hands, and fingers, not feet and inches or metres. I'm three cubits three hands and two fingers tall.
 
-Graves, not pounds or kilograms. Two pounds; or roughly a kilogram to a grave.
-I'm two nif dozen-one graves. Or at least I was last time I had access to a scale.
+Graves, not pounds or kilograms. Roughly two pounds; or roughly a kilogram to a grave.
+I'm [two nif dozen-one]{title='85'} graves. Or at least I was last time I had access to a scale.
 
-An absu is three-nif dozen cubits. A ges is seven nif (252~10~) heartbeats, a watch is fifsy-two (32~10~) ges;
+An absu is three-nif dozen cubits. A ges is [seven nif]{title='252'} heartbeats, a watch is [fifsy-two]{title='32'} ges;
 which comes out to just over eight thousand seconds, which is two hours, fourteen minutes, and twenty-four seconds.
-Those a nautical units, though. Regular people use moments which are six nif heartbeats, and bells which
-are two nif moments; which comes out to four hours, nineteen minutes, and twelve seconds.
+Those a nautical units, though. Regular people use moments which are [six nif]{title='216'} heartbeats, and bells which
+are [two nif]{title='72'} moments; which comes out to four hours, nineteen minutes, and twelve seconds.
 
 Accusative form of «house». Ergative form of «house». Past indicative of «enjoy». Precent particible of «fuck».
 Flash card. Flash card. Flash card. «I must master Infernal,» I mutter.
