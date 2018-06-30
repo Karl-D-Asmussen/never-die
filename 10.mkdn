@@ -8,7 +8,7 @@ sitting in one of Themiscyra's many, many parks.
 The grass is so soft that if the whole city was nothing but, you'd never need shoes. Indeed
 the cobbles paving the streets are so smooth that footwear is 90% fashion.
 
-«[Fifsy]{title='5×6 = 30'} [pernif]{title='1/36'}.» I say. They don't use percent here.
+«[Fifsy pernif]{title='30/36'}.» I say. They don't use percent here.
 
 The number system is seximal. ‹One›, ‹two›, ‹three›, ‹four›, ‹five›, ‹six›,
 ‹twelve›, ‹[thirsy]{title='18'}›, ‹[forsy]{title='24'}›, ‹[fifsy]{title='30'}›, ‹[nif]{title='36'}›,
