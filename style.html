@@ -24,4 +24,13 @@ div.slo {
 .blue     {  color:  skyblue       ;  }
 .purple   {  color:  mediumpurple  ;  }
 
+p {
+  counter-increment: paragraphNumbering;
+}
+
+p:nth-of-type(5n)::before {
+  font-size: 80%;
+  color: lightgrey;
+  content: counter(paragraphNumbering);
+}
 </style>
