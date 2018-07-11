@@ -16,7 +16,6 @@
   <![endif]-->
   <style type="text/css" media="all">
   body {
-    max-width: 800px;
     font-family: serif;
     color: white;
     background: #333;
@@ -44,11 +43,16 @@
     counter-increment: paragraphNumbering;
   }
   
+  body * {
+    max-width: 800px;
+    margin-left: 50px;
+  }
+  
   p:nth-of-type(5n)::before {
     font-size: 80%;
     color: lightgrey;
     content: counter(paragraphNumbering);
-    right: -850px;
+    margin-left: -30px;
   }
   </style>
 </head>
