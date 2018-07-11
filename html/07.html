@@ -39,9 +39,7 @@
   .blue     {  color:  skyblue       ;  }
   .purple   {  color:  mediumpurple  ;  }
   
-  p {
-    counter-increment: paragraphNumbering;
-  }
+  p { counter-increment: paragraph; }
   
   body * {
     max-width: 800px;
@@ -51,7 +49,8 @@
   p:nth-of-type(5n)::before {
     font-size: 80%;
     color: lightgrey;
-    content: counter(paragraphNumbering);
+    content: counter(paragraph);
+    position: absolute;
     margin-left: -30px;
   }
   </style>
