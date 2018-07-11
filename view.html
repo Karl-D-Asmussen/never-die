@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>14</title>
+  <style type="text/css" media="all">
+    body { width: 100%; height: 100%; padding: 0; margin: 0; } 
+    #frame { width: 100%; height: 100%; position: absolute; } 
+  </style>
+</head>
+<body>
+  <iframe id="frame" src="" frameborder="0"></iframe>
+<script> // <![CDATA[
+(function() {
+  var CHAPTER="14";
+  var DONE=4; var OK=200;
+
+  var site="https://raw.githubusercontent.com/Karl-D-Asmussen/never-die/master/html/" + CHAPTER + ".html";
+
+  var req=new XMLHttpRequest();
+  req.open('GET', site, true);
+
+  req.onreadystatechange = function() {
+    if (req.readyState === DONE && req.status === OK) {
+      document.getElementById('frame').srcdoc = req.responseText;     
+    }
+  }
+  
+  req.send(null);
+})();
+// ]]> </script>
+</body>
+</html>
