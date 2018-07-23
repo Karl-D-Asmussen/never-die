@@ -1,13 +1,44 @@
 #! /usr/bin/ruby
 
-class Integer; def ucp; %{"\\u{#{self.to_s 16}}"}.undump end end
-BLOCKS = (0x2580 .. 0x259F).map(&:ucp)
+Random.srand(0)
 
-use = [0x0, 0x4, 0x8, 0xC, 0x10, 0x16, 0x17, 0x18, 0x19, 0x1A, 0x1B, 0x1C, 0x1D, 0x1E, 0x1F, 0x11, 0x12, 0x13]
+Blank    = [' ']
+Fourths  = '▖▗▘▝░'.split ''
+Halves   = '▀▄▌▐▚▞▒'.split ''
+Trequads = '▙▛▜▟▓'.split ''
+Full     = ['█']
 
-lines = 24.times.map {
-  80.times.map {
-    BLOCKS[use[Random.rand(use.length)]]
+def choose n
+  case n
+  when 0
+    Blank[0]
+  when 1
+    Fourths[Random.rand(Fourths.length)]
+  when 2
+    Halves[Random.rand(Halves.length)]
+  when 3
+    Trequads[Random.rand(Trequads.length)]
+  when 4
+    Full[0]
+  end
+end
+
+lines = 51.times.map { |x|
+  x -= 25
+  x /= 25.0
+  51.times.map { |y|
+    y -= 25
+    y /= 25.0
+
+    d = (x*x + y*y) ** 0.5
+
+    m = 4 - (d*4).round(half: [:down, :up][Random.rand(2)])
+
+    q = [m+1, m, m-1].reject(&:negative?)
+
+    q << 0 if q.empty?
+
+    choose q[Random.rand(q.length)]
   }.join
 }
 puts lines
