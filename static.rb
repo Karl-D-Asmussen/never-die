@@ -1,12 +1,10 @@
 #! /usr/bin/ruby
 
-XSZ = 65
-YSZ = 52
-FUDGE = 2.0
+XSZ = 92
+YSZ = 64
+FUDGE = 2.5
 
-
-
-Random.srand(2)
+Random.srand(0)
 
 Blank    = [' ']
 Fourths  = '▖▗▘▝░'.split ''
