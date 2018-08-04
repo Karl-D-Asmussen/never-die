@@ -1,8 +1,8 @@
 #! /usr/bin/ruby
 
-XSZ = 92
-YSZ = 64
-FUDGE = 2.5
+XSZ = 50
+YSZ = 42
+FUDGE = 2
 
 Random.srand(0)
 
