@@ -1,6 +1,12 @@
 #! /usr/bin/ruby
 
-Random.srand(0)
+XSZ = 65
+YSZ = 52
+FUDGE = 2.0
+
+
+
+Random.srand(2)
 
 Blank    = [' ']
 Fourths  = '▖▗▘▝░'.split ''
@@ -23,22 +29,21 @@ def choose n
   end
 end
 
-lines = 51.times.map { |x|
-  x -= 25
-  x /= 25.0
-  51.times.map { |y|
-    y -= 25
-    y /= 25.0
+
+lines = (YSZ + 1).times.map { |x|
+  x -= (YSZ/2)
+  x /= (YSZ/2).to_f
+  (XSZ + 1).times.map { |y|
+    y -= (XSZ/2)
+    y /= (XSZ/2).to_f
 
     d = (x*x + y*y) ** 0.5
 
-    m = 4 - (d*4).round(half: [:down, :up][Random.rand(2)])
+    d *= FUDGE
 
-    q = [m+1, m, m-1].reject(&:negative?)
-
-    q << 0 if q.empty?
-
-    choose q[Random.rand(q.length)]
+    q = Math.exp(-d*d)
+  
+    choose([Random.rand, Random.rand, Random.rand, Random.rand].map { |r| r < q }.count(true))
   }.join
 }
 puts lines
