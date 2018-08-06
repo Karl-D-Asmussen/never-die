@@ -296,7 +296,7 @@ _Hi._
 
 :::{ .slo .center }
 
-# _[····]_
+# _⟨····⟩_
 
 :::
 
@@ -346,7 +346,7 @@ _Clemency. Ego is Foma. I need you._
 
 :::{ .slo .center }
 
-# _[····]_
+# _⟨····⟩_
 
 :::
 
